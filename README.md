@@ -7,15 +7,18 @@ Let me remind you of the expectations.  Code should be neat, well documented.  V
 
 ```
 /**************************************************************
-* Class:  CSC-415-0# Summer 2023
-* Name:
-* Student ID:
-* GitHub ID:
+* Class:  CSC-415-02 Summer 2023
+* Name:Christian McGlothen
+* Student ID:918406078
+* GitHub ID:chris3953
 * Project: Assignment 3 – Simple Shell
 *
-* File: <name of this file>
+* File: <Mcglothen_Christian_HW3_main.c>
 *
-* Description:
+* Description: The purpose of this assignment is to practice forking and understanding      processes.
+  The assignment covers prompting user input while parsing and using commands such
+  as execvp() and strtok() which allows for use of linux command line executions and tokenizing 
+  C strings. 
 *
 **************************************************************/
 ```
